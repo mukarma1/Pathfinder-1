@@ -1,4 +1,4 @@
-# 📘 Backend Developer Roadmap — Month by Month (9 Months to Job)
+# 📘 Backend Developer Roadmap — Month by Month 
 
 **Simple rule:** Your FYP = your backend learning. Every backend skill below is being learned *through* building your FYP, not as a separate side project. DSA/CP runs in parallel every month, no exceptions.
 
