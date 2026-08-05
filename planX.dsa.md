@@ -2,28 +2,34 @@
 
 **Don't search around for this every week — just follow this list, month by month.**
 
-## Main Platform
-**[NeetCode 150](https://neetcode.io/practice)** — free, organized by pattern, every problem has a short video explanation if you get stuck. This is the single best structured list for someone starting fresh. Solve directly on **[LeetCode](https://leetcode.com/)** (NeetCode links straight to the LeetCode problem).
+## Main List
+**Your uploaded 200 Problems DSA Sheet (kaabil.engineer)** — use this as your single source of truth. It's comprehensive, has direct LeetCode links, and its topics map almost exactly to your roadmap months below. Keep the physical/PDF checklist and tick items off as you go.
+
+**NeetCode.io videos** — use only as a helper: if you're stuck on a problem after 25-30 min, search "[problem name] neetcode" on YouTube — most problems in your sheet also exist on NeetCode with a free explanation video. You don't need to solve from NeetCode separately.
 
 ## Rule of thumb
 - Try a problem for 25-30 min on your own first.
-- Stuck after that? Watch the NeetCode video for that exact problem, understand it, then re-solve it yourself without looking.
-- 3-5 problems/week is enough given your schedule — depth over volume. Understanding *why* a pattern works matters more than solving 20 problems shallowly.
+- Stuck after that? Watch the explanation video, understand it, then re-solve it yourself without looking.
+- ~20 problems/month (≈5/week) keeps you on pace with your time budget — don't rush past this just to "finish faster."
 
 ---
 
-## Month-by-Month Pattern Map
+## Month-by-Month Mapping (from your 200-problem sheet)
 
-| Month | Pattern (NeetCode section) | Example problems to start with |
-|-------|----------------------------|--------------------------------|
-| 1 | Arrays & Hashing | Contains Duplicate, Two Sum, Valid Anagram, Group Anagrams, Top K Frequent Elements |
-| 2 | Two Pointers + Sliding Window | Valid Palindrome, Two Sum II, 3Sum, Best Time to Buy/Sell Stock, Longest Substring Without Repeating Characters |
-| 3 | Stacks + Binary Search | Valid Parentheses, Min Stack, Daily Temperatures, Binary Search, Search in Rotated Sorted Array |
-| 4 | Trees | Invert Binary Tree, Max Depth of Binary Tree, Same Tree, Subtree of Another Tree, Level Order Traversal |
-| 5 | Graphs | Number of Islands, Clone Graph, Course Schedule, Pacific Atlantic Water Flow |
-| 6+ | 1-D Dynamic Programming | Climbing Stairs, House Robber, Coin Change, Longest Increasing Subsequence |
+| Month | Sheet Topics | Problem Count |
+|-------|-------------|----------------|
+| 1 | Arrays + Strings | 20 |
+| 2 | Hashing + Two Pointers | 20 |
+| 3 | Sliding Window + Stack | 20 |
+| 4 | Queue + Linked List | 20 |
+| 5 | Binary Search + Trees | 20 |
+| 6 | BST + Heap | 20 |
+| 7 | Backtracking + Graphs | 20 |
+| 8 | DFS/BFS + Tries | 20 |
+| 9 | Dynamic Programming + Greedy | 20 |
+| Bonus (if time permits) | Bit Manipulation + Union Find | 20 |
 
-(All of these are literally named this way on NeetCode's site — just search the exact title in the practice list.)
+This covers all 200 problems by Month 9, with Bit Manipulation and Union Find as stretch/bonus topics — they show up less often in generic backend interviews compared to the rest, so they're lowest priority if you fall behind.
 
 ---
 
